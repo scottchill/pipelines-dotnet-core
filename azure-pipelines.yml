@@ -21,3 +21,4 @@ steps:
       echo Write your commands here hahahaha
       
       echo Hello world
+      echo  %VARIABLEWITHOVERRIDE%
